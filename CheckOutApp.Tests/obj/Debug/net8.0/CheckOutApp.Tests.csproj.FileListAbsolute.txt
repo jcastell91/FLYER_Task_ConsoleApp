@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\FLYR_Task_ConsoleApp\CheckOutApp.Tests\obj\Debug\net8.0\CheckOutApp.Tests.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FLYR_Task_ConsoleApp\CheckOutApp.Tests\obj\Debug\net8.0\CheckOutApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FLYR_Task_ConsoleApp\CheckOutApp.Tests\obj\Debug\net8.0\CheckOutApp.Tests.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FLYR_Task_ConsoleApp\CheckOutApp.Tests\obj\Debug\net8.0\CheckOutApp.Tests.AssemblyInfo.cs
+C:\Users\USER\source\repos\FLYR_Task_ConsoleApp\CheckOutApp.Tests\obj\Debug\net8.0\CheckOutApp.Tests.csproj.CoreCompileInputs.cache
